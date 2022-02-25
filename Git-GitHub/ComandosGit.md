@@ -26,7 +26,7 @@
 
 
 
-**Introdução - Tracked ou Untracked ** - O *Tracked*  é submetido em três pilares, sendo o primeiro *Unmodified* onde encontra-se os arquivos não modificados,  o segundo *Modified* que obtém os arquivos modificados e por terceiro *Staged* onde está os arquivos que estão preparados para fazer parte de outro agrupamento, no caso, o *Commit.*  O *Untracked* obtém os arquivos que ainda não foram rastreados pelo Git. 
+**Introdução - Tracked ou Untracked** - O *Tracked*  é submetido em três pilares, sendo o primeiro *Unmodified* onde encontra-se os arquivos não modificados,  o segundo *Modified* que obtém os arquivos modificados e por terceiro *Staged* onde está os arquivos que estão preparados para fazer parte de outro agrupamento, no caso, o *Commit.*  O *Untracked* obtém os arquivos que ainda não foram rastreados pelo Git. 
 
 **Remote Repository** - Repositório publicados em uma nuvem que podem ser públicos ou não. 
 
