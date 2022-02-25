@@ -20,14 +20,14 @@ a receita Pavê.*
 
 1.  Comando **git status**
     - A partir do momento que altera no *GitHub* o *Git* irá identificar um arquivo "novo" mostrando a mensagem que  é necessário mover para *Staged* e criar um *Commit*.
-2. Comando **git add + (*)**  
+2. Comando **git add *.**  
       - Comando para adicionar na *Staged* o "novo" arquivo.
 3. Comado **git status**
       - Agora git mostra a mensagem que o arquivo que esta na *Staged  e Staging Area* pronto para ser *commitado.*
 4. Comando **git commit -m  "Adiciona a receita Pave"**
       - Comando que adiciona o arquivo que esta no *Staged*
          no *Commit.*
-5.  Comando **git push origin master **
+5.  Comando **git push origin master**
        - Comando para enviar o *Repositório Local* para o *Repósitorio Remote*, no caso GitHub .
        -  Porém, irá dá erro e o *Git* informará um "merge conflit". Pois, o codigo foi  modificado no *GitHub* como vimos na primeira observação acima. Dessa forma, o *Repositório Remoto* possui alguma modficação que o *Reposítório Local* não possui, no caso a inclusão da receita Pavê. 
 6. Comando **git pull origin master**
