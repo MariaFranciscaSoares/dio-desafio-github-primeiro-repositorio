@@ -2,8 +2,8 @@
 
 # COMANDOS GIT HUB 
 
-1.  **comando *git remote add origin** https://github.com/MariaFranciscaSoares/Livro-Receitas-.git
-2.   **comando *git remote -v* **
+1.  comando **git remote add origin** https://github.com/MariaFranciscaSoares/Livro-Receitas-.git
+2.  comando **git remote -v**
 - Comando 1 e 2 cria um repositório remoto.
 3. **git push origin master **
    - Comando 3 envia o repositório LOCAL para o REMOTO
@@ -33,7 +33,7 @@ a receita Pavê.*
 6. Comando **git pull origin master**
       - Comando para integrar o que esta no *Repositório Remoto* com o *Reposítório Local*. Desta forma, será resolvido o "merge conflict" que é  a  diferença dos programas  *local e remote.* 
 
-7.  Comando *git push origin master*
+7.  Comando **git push origin master**
        -  Comando para enviar o programa para o GitHub .
 
 
