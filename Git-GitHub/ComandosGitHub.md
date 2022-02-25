@@ -2,11 +2,11 @@
 
 # COMANDOS GIT HUB 
 
-1.  comando **git remote add origin** https://github.com/MariaFranciscaSoares/Livro-Receitas-.git
-2.  comando **git remote -v**
+1.  Comando **git remote add origin** https://github.com/MariaFranciscaSoares/Livro-Receitas-.git
+2.  Comando **git remote -v**
 - Comando 1 e 2 cria um repositório remoto.
-3. **git push origin master **
-   - Comando 3 envia o repositório LOCAL para o REMOTO
+3. Comando **git push origin master**
+   - Comando 3 envia o repositório *Local* para o *Remoto*.
 
 
 ---------------------------------------------------------------------------------
