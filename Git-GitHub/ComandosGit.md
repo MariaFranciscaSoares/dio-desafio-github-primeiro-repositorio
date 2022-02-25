@@ -38,7 +38,7 @@
 
 
 
-- Comando **git add" */ git add nomeDaPasta / git add . ** - De modo geral, este comando envia todos os arquivos que estão no repositório local sendo da área *Tracked* ou *Untracked*  para *Staged*.
+- Comando **git add"*/ git add nomeDaPasta / git add .** - De modo geral, este comando envia todos os arquivos que estão no repositório local sendo da área *Tracked* ou *Untracked*  para *Staged*.
 - Comando **git commit -m + "mensagem"** -  Este comando envelopa todos os arquivos que estão no *Staged* com significância através da mensagem escrita . Deste modo, quando o comando é aplicado, o Git obtém todos os arquivos do *Staged* e cria uma "foto" que ficará salva dentro do *Commit*, e os arquivos que está em *Staged* retornam para *Unmodified* reiniciando o ciclo. 
 - Comando **git status** - mostra como está o diretorio da *Stagin Area*. Caso tenha algum arquivo em *Modified* o git irá exibir uma mensagem avisando que é necessário adicionar ao *Staged* e *Commitar* 
 
