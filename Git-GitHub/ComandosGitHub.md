@@ -20,7 +20,7 @@ a receita Pavê.*
 
 1.  Comando **git status**
     - A partir do momento que altera no *GitHub* o *Git* irá identificar um arquivo "novo" mostrando a mensagem que  é necessário mover para *Staged* e criar um *Commit*.
-2. Comando **git add ***  
+2. Comando **git add + (*)**  
       - Comando para adicionar na *Staged* o "novo" arquivo.
 3. Comado **git status**
       - Agora git mostra a mensagem que o arquivo que esta na *Staged  e Staging Area* pronto para ser *commitado.*
